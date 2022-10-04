@@ -1,5 +1,5 @@
 //Name: Semih
-//Surname: Bað
+//Surname: Bağ
 //instagram: @smhbag
 
 /*Problem:Write a program that converts a date that is given in days to “Year: <years>, Mount: <mounts>,
