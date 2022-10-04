@@ -1,13 +1,9 @@
-	//Name: Semih
-	//Surname: Bað
-	//Student ID:150120070
+//Name: Semih
+//Surname: BaÄŸ
+//instagram: @smhbag
 
-	//Problem:Write a program that will calculate the compound monthly interest
-	
+//Problem:Write a program that will calculate the compound monthly interest
 
-
-
-	//I added the "import java.util.Scanner;" beacuse we need to get data from user.
 import java.util.Scanner;
 
 public class HW3_150120070_P3 {
