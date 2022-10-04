@@ -1,18 +1,17 @@
-	//Name: Semih
-	//Surname: Bağ
-	//Student ID:150120070
+//Name: Semih
+//Surname: BaÃ°
+//instagram: @smhbag
 
-	/*Problem:Write a program that converts a date that is given in days to “Year: <years>, Mount: <mounts>,
-	Day: <days>” format.*/
+/*Problem:Write a program that converts a date that is given in days to â€œYear: <years>, Mount: <mounts>,
+Day: <days>â€ format.*/
 
-    /*Algorithm:
-     *1-Get number from user
-     *2-Divide the number by 365 and find the years value
-     *3-Divide the remainder by 31 and find the month value
-     *4-The last remainder is day value*/
- 
+/*Algorithm:
+*1-Get number from user
+*2-Divide the number by 365 and find the years value
+*3-Divide the remainder by 31 and find the month value
+*4-The last remainder is day value*/
 
-    //I added the "import java.util.Scanner;" because we need to get data from user.
+
 import java.util.Scanner;
 
 public class HW2_150120070_P2 {
